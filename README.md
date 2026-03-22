@@ -12,7 +12,7 @@ I am a **Software Engineer** and **Graduate Student at Northeastern University**
 - 🎓 **Currently:** Focused on Machine Learning and Large Language Model architectures.
 - 💡 **Core Strengths:** Designing modular software, optimizing data pipelines, and implementing AI agents from scratch.
 - 🤝 **Collaborations:** I’m always open to working on innovative Django or AI-driven open-source projects.
-- 📫 **Reach me at:** [mule.ri@northeastern.edu](mailto:mule.ri@northeastern.edu)
+- 📫 **Reach me at:** [mulerishi1234@gmail.com](mailto:mulerishi1234@gmail.com)
 
 ---
 
@@ -71,7 +71,7 @@ I am a **Software Engineer** and **Graduate Student at Northeastern University**
 ### 🌐 Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/rishi-mule/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mule.ri@northeastern.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mulerishi1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <p align="center"> 
