@@ -65,10 +65,10 @@ I am a **Software Engineer** and **Graduate Student at Northeastern University**
 
 ### 📊 My GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishimule&show_icons=true&theme=tokyonight&count_private=true" alt="Rishi's Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimule&layout=compact&theme=tokyonight&hide=html,css,batchfile" alt="Top Languages" height="180px" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rishimule&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
