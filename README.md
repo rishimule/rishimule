@@ -39,6 +39,10 @@ I am a **Software Engineer** and **Graduate Student at Northeastern University**
 
 ### 🧠 Featured AI / ML Projects
 
+* **[AI Code Review Agent](https://github.com/rishimule/ai-code-review-agent)** | *Python, LangGraph, Llama 3.3, Langfuse*
+    * Autonomous AI agent that reviews GitHub PRs for bugs, security vulnerabilities, and code quality issues. Powered by LangGraph and Llama 3.3 70B with Langfuse observability and honest evaluation benchmarks.
+* **[Video Content Gap Analyzer](https://github.com/rishimule/video-content-gap-analyzer)** | *Python, FiftyOne, Twelve Labs, Embeddings*
+    * A FiftyOne plugin that identifies coverage gaps in video datasets using Twelve Labs Marengo embeddings and Pegasus descriptions. Built at the Video Understanding AI Hackathon at Northeastern.
 * **[ArXiv Intelligence MCP](https://github.com/rishimule/arxiv-intelligence-mcp)** | *Python, RAG, ChromaDB*
     * An intelligence server that uses RAG to query ArXiv papers. Features semantic memory using ChromaDB and PDF-to-Markdown ingestion for clean LLM context.
 * **[AI-GovBot](https://github.com/rishimule/AI-GovBot)** | *Python, LLMs, RAG*
@@ -64,6 +68,10 @@ I am a **Software Engineer** and **Graduate Student at Northeastern University**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishimule&show_icons=true&theme=tokyonight&count_private=true" alt="Rishi's Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimule&layout=compact&theme=tokyonight&hide=html,css,batchfile" alt="Top Languages" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rishimule&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
