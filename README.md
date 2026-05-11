@@ -9,10 +9,10 @@
 ### 🚀 About Me
 I am a **Software Engineer** focused on building AI-enabled products and scalable web platforms. My work spans **Full-Stack Development (Django/Vue)** and **Applied AI (LLMs, Neural Networks, RAG)**.
 
-- 🧭 **Current focus:** LLM agents, RAG pipelines, and evaluation/observability for reliable AI systems.
-- 💡 **Core strengths:** Modular system design, data pipelines, and end-to-end product delivery.
+- 🧭 **Current Focus:** LLM agents, RAG pipelines, and evaluation/observability for reliable AI systems.
+- 💡 **Core Strengths:** Modular system design, data pipelines, and end-to-end product delivery.
 - 🤝 **Collaborations:** Open to Django or AI-driven open-source projects.
-- 📫 **Reach me at:** [mulerishi1234@gmail.com](mailto:mulerishi1234@gmail.com)
+- 📫 **Reach Me At:** [mulerishi1234@gmail.com](mailto:mulerishi1234@gmail.com)
 
 ---
 
