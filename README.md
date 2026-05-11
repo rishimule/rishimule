@@ -7,12 +7,12 @@
 ---
 
 ### 🚀 About Me
-I am a **Software Engineer** and **Graduate Student at Northeastern University** with a deep interest in building scalable applications and intelligent systems. My expertise lies at the intersection of **Full-Stack Development (Django/Vue)** and **Applied AI (LLMs, Neural Networks, RAG)**. 
+I am a **Software Engineer** focused on building AI-enabled products and scalable web platforms. My work spans **Full-Stack Development (Django/Vue)** and **Applied AI (LLMs, Neural Networks, RAG)**.
 
-- 🎓 **Currently:** Focused on Machine Learning and Large Language Model architectures.
-- 💡 **Core Strengths:** Designing modular software, optimizing data pipelines, and implementing AI agents from scratch.
-- 🤝 **Collaborations:** I’m always open to working on innovative Django or AI-driven open-source projects.
-- 📫 **Reach me at:** [mulerishi1234@gmail.com](mailto:mulerishi1234@gmail.com)
+- 🧭 **Current Focus:** LLM agents, RAG pipelines, and evaluation/observability for reliable AI systems.
+- 💡 **Core Strengths:** Modular system design, data pipelines, and end-to-end product delivery.
+- 🤝 **Collaborations:** Open to Django or AI-driven open-source projects.
+- 📫 **Reach Me At:** [mulerishi1234@gmail.com](mailto:mulerishi1234@gmail.com)
 
 ---
 
